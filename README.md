@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="./me.gif" width="100%" alt="Banner"/>
+
 
 <!--
 **david-salmeronxd/david-salmeronxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
