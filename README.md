@@ -1,4 +1,4 @@
-## Hello Friend
+## Como q la ia me robo mi trabajo 
 <img src="./me.gif" width="100%" alt="Banner"/>
 
 
