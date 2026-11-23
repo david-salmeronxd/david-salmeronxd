@@ -1,4 +1,4 @@
-## Como q la ia me robo mi trabajo 
+## como que la IA me robo mi trabajo no mame
 <img src="./me.gif" width="100%" alt="Banner"/>
 
 
